@@ -1,2 +1,0 @@
-# MeliyyoVet
-VeterinariaPrimerIntento
